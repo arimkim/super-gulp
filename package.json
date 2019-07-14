@@ -19,6 +19,7 @@
 		"gulp-webserver": "^0.9.1"
 	},
 	"dependencies": {
-		"del": "^5.0.0"
+		"del": "^5.0.0",
+		"gulp-image": "^5.1.0"
 	}
 }
